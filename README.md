@@ -1,9 +1,23 @@
-# powerfetch
-PowerShell-based cross-platform 'screenfetch'-like tool
+# Powerfetch
+PowerShell-based cross-platform 'Screenfetch'-like tool 🦄
 
-![Alt text](screenshot.png?raw=true "sample Windows screenshot")
+![image](https://github.com/KiraiEEE/Powerfetch/assets/54278089/d3ba8db7-fb0c-4101-823a-05e2aa17350f)
 
-### Try it out!
+
+### INSTALLATION 💫
+
+run this command and restart terminal or open a new tab and voila 🌸:
+
+```powershell
+iex (new-object net.webclient).DownloadString('https://raw.githubusercontent.com/KiraiEEE/Powerfetch/master/installer.ps1')
+```
+then :
+```powershell
+Powerfetch
+```
+
+
+### Try it out! 💫
 
 To try `powerfetch` anywhere and without downloading, you can run:
 
@@ -11,7 +25,7 @@ To try `powerfetch` anywhere and without downloading, you can run:
 iex (new-object net.webclient).DownloadString('https://raw.githubusercontent.com/jantari/powerfetch/master/powerfetch.ps1')
 ```
 
-This will run the script directly from this GitHub. 
+
 
 ### About
 
