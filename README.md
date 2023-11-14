@@ -29,5 +29,6 @@ iex (new-object net.webclient).DownloadString('https://raw.githubusercontent.com
 
 
 ### About
-The project is forked from [jantari/powerfetch](https://github.com/jantari/powerfetch)
+The project is forked from [jantari/powerfetch](https://github.com/jantari/powerfetch) 
+<br>
 The tool itself is cross-platform (powerfetch.ps1) but the installer made for Windows
