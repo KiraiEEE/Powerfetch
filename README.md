@@ -16,8 +16,9 @@ then :
 Powerfetch
 ```
 
+<br>
 
-### Try it out! 💫
+### or Try it out! 💫
 
 To try `powerfetch` anywhere and without downloading, you can run:
 
